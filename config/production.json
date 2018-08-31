@@ -1,0 +1,10 @@
+{
+    "dbURL":"mongodb://orangeBear:chatcat@ds161148.mlab.com:61148/chatcat",
+    "sessionSecret":"Barometer",
+    "fb":{
+        "appID":"195296854403458",
+        "appSecret":"c46903ce5121ac5d41696dd7f04566b8",
+        "callbackURL":"http://localhost:3000/auth/facebook/callback"
+    },
+    "host":"http://localhost:3000"
+}
